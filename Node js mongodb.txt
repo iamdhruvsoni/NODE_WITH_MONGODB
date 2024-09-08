@@ -1,0 +1,7 @@
+Q-1. What is MongoDB?
+
+=> MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents instead of traditional tables. It supports high scalability, allowing for efficient storage and retrieval of large amounts of unstructured data. MongoDB is popular for handling big data and building modern applications with dynamic data models.
+
+Q-2. What is difference between mongo DB and SQL? 
+
+=> MongoDB is a NoSQL database that stores data in flexible, JSON-like documents, allowing for unstructured and dynamic data. SQL databases, like MySQL, use structured tables with predefined schemas. MongoDB excels in scalability and handling unstructured data, while SQL databases offer strong data integrity and relational querying capabilities.
